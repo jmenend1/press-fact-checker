@@ -1,6 +1,6 @@
 # Asistente de verificación de datos (fact-checking) para redacciones
 
-Propuesta de TFM para un máster de desarrollo con IA. Sistema que ayuda a periodistas a verificar afirmaciones cuantitativas: extrae las afirmaciones comprobables de un texto, busca evidencias en fuentes fiables y propone un veredicto razonado y citado. **El veredicto final lo decide siempre el periodista.**
+TFM del máster de desarrollo con IA de BIG School. Sistema que ayuda a periodistas a verificar afirmaciones cuantitativas: extrae las afirmaciones comprobables de un texto, busca evidencias en fuentes fiables y propone un veredicto razonado y citado. **El veredicto final lo decide siempre el periodista.**
 
 **Stack:** Python (FastAPI) · Vue.js · Google ADK · MCP · RAG (OpenSearch) · PostgreSQL · Docker Compose · TDD
 
